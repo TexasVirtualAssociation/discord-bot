@@ -14,7 +14,7 @@
   ],
   "license": "GPL-3.0",
   "dependencies": {
-    "discord.js": "^12.4.0",
+    "discord.js": "^12.5.3",
     "dotenv": "^8.2.0",
     "fs": "0.0.1-security",
     "jshint": "^2.12.0",
